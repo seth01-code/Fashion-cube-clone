@@ -1,7 +1,7 @@
 /*
  ** Author: Santosh Kumar Dash
  ** Author URL: http://santoshdash.epizy.com/
- ** Github URL: https://github.com/quintuslabs/fashion-cube
+ ** Github URL: https://github.com/quintuslabs/
  */
 
 import React, { Component } from "react";
@@ -61,9 +61,9 @@ class Cart extends Component {
                 </h3>
                 <hr />
 
-                <Button variant="danger" size="sm" style={{ marginTop: 30 }}>
-                  Confirm Checkout
-                </Button>
+              <a href="/checkout">  <Button variant="danger" size="sm" style={{ marginTop: 30 }}>
+                  Proceed to Checkout
+                </Button></a>
               </div>
             ) : (
               <div style={{ textAlign: "center" }}>

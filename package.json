@@ -2,10 +2,10 @@
   "name": "fashioncube",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://quintuslabs.github.io/fashion-cube",
+  "homepage": "https://quintuslabs.github.io/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/quintuslabs/fashion-cube"
+    "url": "https://github.com/quintuslabs/"
   },
   "keywords": [
     "fashion",

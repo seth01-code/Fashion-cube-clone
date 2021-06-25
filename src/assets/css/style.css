@@ -1,7 +1,7 @@
 /*
  ** Author: Santosh Kumar Dash
  ** Author URL: http://santoshdash.epizy.com/
- ** Github URL: https://github.com/quintuslabs/fashion-cube
+ ** Github URL: https://github.com/quintuslabs/
  */
 
 @charset "utf-8";
@@ -2213,4 +2213,21 @@ ul.stander li a {
   line-height: 40px;
   float: right;
   margin-right: 34px;
+}
+
+.site-section {
+  padding: 5em 0;
+}
+
+.text-success {
+  color: #28a745!important;
+}
+.display-3 {
+  font-size: 4.5rem;
+  font-weight: 300;
+  line-height: 1.2;
+}
+
+a:hover{
+  text-decoration: none !important;
 }
