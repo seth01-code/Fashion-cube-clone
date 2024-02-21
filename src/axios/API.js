@@ -8,7 +8,7 @@ import Auth from "../modules/Auth";
 import jumpTo from "../modules/Navigation";
 import axios from "axios";
 //const URL = "http://192.168.0.19:3000";
-const URL = "http://192.168.1.100:5000";
+const URL = "http://192.168.0.100:5000";
 
 const API = (config) => {
   //header authorization
